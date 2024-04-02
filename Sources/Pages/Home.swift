@@ -3,9 +3,17 @@ import Ignite
 
 struct Home: StaticPage {
     var title = "Home"
-
+    
     func body(context: PublishingContext) -> [BlockElement] {
-        Text("Hello world!")
-            .font(.title1)
+        NavigationBar(
+            logo: Image("/images/KavanaLogo.png", 
+                        description: "Kavana Kava Logo")
+            .resizable()
+            .frame(height: 180)
+        ) {
+            Link("Go Home", target: "/")
+        }
+        .backgroundColor(.black)
+        .navigationBarStyle(.dark)
     }
 }
