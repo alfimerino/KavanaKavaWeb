@@ -29,9 +29,9 @@ jobs:
         run: npm run build
 
       # Modify the following step to publish the desired file (e.g., custom-index.html) to GitHub Pages
-      - name: Publish custom-index.html to GitHub Pages
+      - name: Publish index.html to GitHub Pages
         run: |
-          cp path/to/custom-index.html path/to/gh-pages-directory/index.html
+          cp Build/index.html path/to/gh-pages-directory/index.html
 
       # Commit and push changes to trigger GitHub Pages deployment
       - name: Commit and push changes
