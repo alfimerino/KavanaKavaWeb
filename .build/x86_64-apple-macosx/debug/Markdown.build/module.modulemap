@@ -1,0 +1,4 @@
+module Markdown {
+    header "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/Markdown.build/Markdown-Swift.h"
+    requires objc
+}

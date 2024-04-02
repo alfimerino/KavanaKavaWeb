@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/master.swiftdeps"
+  },
+  "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/checkouts/Ignite/Sources/IgniteCLI/BuildCommand.swift": {
+    "dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/BuildCommand.d",
+    "object": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/BuildCommand.swift.o",
+    "swiftmodule": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/BuildCommand~partial.swiftmodule",
+    "swift-dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/BuildCommand.swiftdeps"
+  },
+  "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/checkouts/Ignite/Sources/IgniteCLI/IgniteCLI.swift": {
+    "dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/IgniteCLI.d",
+    "object": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/IgniteCLI.swift.o",
+    "swiftmodule": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/IgniteCLI~partial.swiftmodule",
+    "swift-dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/IgniteCLI.swiftdeps"
+  },
+  "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/checkouts/Ignite/Sources/IgniteCLI/NewCommand.swift": {
+    "dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/NewCommand.d",
+    "object": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/NewCommand.swift.o",
+    "swiftmodule": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/NewCommand~partial.swiftmodule",
+    "swift-dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/NewCommand.swiftdeps"
+  },
+  "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/checkouts/Ignite/Sources/IgniteCLI/Process-Execute.swift": {
+    "dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/Process-Execute.d",
+    "object": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/Process-Execute.swift.o",
+    "swiftmodule": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/Process-Execute~partial.swiftmodule",
+    "swift-dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/Process-Execute.swiftdeps"
+  },
+  "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/checkouts/Ignite/Sources/IgniteCLI/RunCommand.swift": {
+    "dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/RunCommand.d",
+    "object": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/RunCommand.swift.o",
+    "swiftmodule": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/RunCommand~partial.swiftmodule",
+    "swift-dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteCLI.build/RunCommand.swiftdeps"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteStarter.build/master.swiftdeps"
+  },
+  "/Users/alfredomerino/Documents/KavanaKavaWeb/Sources/Pages/Home.swift": {
+    "dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteStarter.build/Home.d",
+    "object": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteStarter.build/Home.swift.o",
+    "swiftmodule": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteStarter.build/Home~partial.swiftmodule",
+    "swift-dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteStarter.build/Home.swiftdeps"
+  },
+  "/Users/alfredomerino/Documents/KavanaKavaWeb/Sources/Site.swift": {
+    "dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteStarter.build/Site.d",
+    "object": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteStarter.build/Site.swift.o",
+    "swiftmodule": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteStarter.build/Site~partial.swiftmodule",
+    "swift-dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteStarter.build/Site.swiftdeps"
+  },
+  "/Users/alfredomerino/Documents/KavanaKavaWeb/Sources/Themes/MainTheme.swift": {
+    "dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteStarter.build/MainTheme.d",
+    "object": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteStarter.build/MainTheme.swift.o",
+    "swiftmodule": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteStarter.build/MainTheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/IgniteStarter.build/MainTheme.swiftdeps"
+  }
+}

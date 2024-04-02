@@ -1,0 +1,4 @@
+module ArgumentParser {
+    header "/Users/alfredomerino/Documents/KavanaKavaWeb/.build/x86_64-apple-macosx/debug/ArgumentParser.build/ArgumentParser-Swift.h"
+    requires objc
+}
